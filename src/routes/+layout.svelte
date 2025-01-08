@@ -2,10 +2,10 @@
 <script>
   import "../app.css";
 </script>
-<nav class="bg-black pl-9 pr-9">
-  <div class="space-x-4 md:flex">
-    <a href="/" class="hover:bg-gray-500 space-x-4 p-4 text-xl text-white hover:text-gray-900">Home</a>
-    <a href="/test" class="hover:bg-gray-500 space-x-4 p-4 text-xl text-white hover:text-gray-900">Test</a>
+<nav class="bg-gray-800 pl-9 pr-9">
+  <div class="block md:flex md:space-x-6">
+    <a href="/" class="hover:bg-gray-500 p-2 text-xl text-white hover:text-gray-900">Home</a>
+    <a href="/test" class="hover:bg-gray-500  p-2 text-xl text-white hover:text-gray-900">Test</a>
   </div>
 </nav>
 <main>
