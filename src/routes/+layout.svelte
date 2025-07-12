@@ -15,7 +15,7 @@
   <h1 class="text-5xl text-white font-bold mb-10 text-center mt-10">Menu</h1>
     <ul>
       <li><a href="/" class="hover:bg-paldarkerpurple block w-full p-2 text-3xl text-palwhite hover:text-paldark hover:animate-pulse p-5">Home</a></li>
-      <li><a href="/test" class="hover:bg-paldarkerpurple block  p-2 text-3xl text-palwhite hover:text-paldark hover:animate-pulse p-5">Test</a></li>
+      <li><a href="/gallery" class="hover:bg-paldarkerpurple block  p-2 text-3xl text-palwhite hover:text-paldark hover:animate-pulse p-5">Gallery</a></li>
     </ul>
     <!-- Links div -->
     <div class="bottom-10 absolute pl-5">
