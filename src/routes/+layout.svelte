@@ -11,7 +11,7 @@
 
 <div class= {`transition-all duration-500 transform ${
   visible ? 'translate-x-0 opacity-100' : '-translate-x-full opacity-0'
-} bg-palpurple/80 pl-5 w-1/3 h-screen z-40 fixed top-0 left-0 sm:w-1/4`}>
+} bg-palpurple/80 pl-5 w-1/3 h-screen z-40 fixed top-0 left-0 sm:w-1/5`}>
   <h1 class="text-5xl text-white font-bold mb-10 text-center mt-10">Menu</h1>
     <ul>
       <li><a href="/" class="hover:bg-paldarkerpurple block w-full p-2 text-3xl text-palwhite hover:text-paldark hover:animate-pulse p-5">Home</a></li>
